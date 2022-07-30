@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/button_border.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable-v24/button_border1.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable-v24/iamge.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable-v24/image.xml" value="0.165" />
+        <entry key="app/src/main/res/drawable-v24/textview_border.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.165" />
+        <entry key="app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.165" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/truck11.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_eactivity.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/activity_email.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_feedback.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_image.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.12291666666666666" />
+        <entry key="app/src/main/res/layout/activity_map.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/activity_myorder.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/activity_myorder2.xml" value="0.14114583333333333" />
+        <entry key="app/src/main/res/layout/activity_neworder.xml" value="0.23392888857936803" />
+        <entry key="app/src/main/res/layout/activity_neworder2.xml" value="0.18869425455729166" />
+        <entry key="app/src/main/res/layout/activity_orderdetails.xml" value="0.2416859944661458" />
+        <entry key="app/src/main/res/layout/activity_sensor.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/feedbacklayout.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/fragment_blank.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_blank1.xml" value="0.12239583333333333" />
+        <entry key="app/src/main/res/layout/itemtruck.xml" value="0.280679931640625" />
+        <entry key="app/src/main/res/layout/itemtruck1.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/menufragment.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/s.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/menu/popup_menu.xml" value="0.2609375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

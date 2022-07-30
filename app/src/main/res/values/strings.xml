@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <drawable name="bkcolor">#84C2C8</drawable>
+    <drawable name="bkcolor1">@color/quantum_pink100</drawable>
+
+
+
+
+
+</resources>
